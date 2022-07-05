@@ -1,0 +1,10 @@
+body {
+    background: linear-gradient(to right,#9a24d7,#2efca2);
+    font-family: sans-serif;
+    text-align: center;
+    color: darkmagenta;
+}
+
+h1 {
+    margin-top: 300px;
+}
